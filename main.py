@@ -25,3 +25,5 @@ for item in os.listdir(organize):
         filee = item.split(".")[-1]
         shutil.move(os.path.join(organize, item), os.path.join(organize, filee, item))
 
+print("donzo")
+
