@@ -3,7 +3,9 @@ This program was made for windows users.
 To use: 
 
   1- Open the "dist" folder, and run "main.exe".
+	
   2- Select the folder you want to orangize.
+	
   3- Done :), the contents within your folder should be oragnized based on extentions.
 
 Notes:
